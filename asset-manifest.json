@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/polyclave/static/css/main.09416a13.chunk.css",
+    "main.js": "/polyclave/static/js/main.a563e73e.chunk.js",
+    "main.js.map": "/polyclave/static/js/main.a563e73e.chunk.js.map",
+    "runtime-main.js": "/polyclave/static/js/runtime-main.29dd66d4.js",
+    "runtime-main.js.map": "/polyclave/static/js/runtime-main.29dd66d4.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/polyclave/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.7a0323b6.chunk.js": "/polyclave/static/js/2.7a0323b6.chunk.js",
+    "static/js/2.7a0323b6.chunk.js.map": "/polyclave/static/js/2.7a0323b6.chunk.js.map",
+    "index.html": "/polyclave/index.html",
+    "precache-manifest.544dd27dbb4c3b1817f38a33f6f9dc9b.js": "/polyclave/precache-manifest.544dd27dbb4c3b1817f38a33f6f9dc9b.js",
+    "service-worker.js": "/polyclave/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/polyclave/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.09416a13.chunk.css.map": "/polyclave/static/css/main.09416a13.chunk.css.map",
+    "static/js/2.7a0323b6.chunk.js.LICENSE.txt": "/polyclave/static/js/2.7a0323b6.chunk.js.LICENSE.txt",
+    "static/media/hit2.wav": "/polyclave/static/media/hit2.f3e648cb.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29dd66d4.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.7a0323b6.chunk.js",
+    "static/css/main.09416a13.chunk.css",
+    "static/js/main.a563e73e.chunk.js"
+  ]
+}
