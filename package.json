@@ -13,7 +13,7 @@
     "bootstrap": "^4.4.1",
     "euclidean-rhythms": "^2.0.1",
     "gh-pages": "^2.2.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.0",
     "react-bootstrap": "^1.0.0-beta.17",
     "react-bootstrap-range-slider": "^0.3.1",
